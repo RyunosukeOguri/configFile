@@ -44,6 +44,11 @@ brew 'pkg-config'
 brew 'rbenv'
 brew 'gmp4'
 brew 'redis'
+brew 'bash-completion'
+brew 'bash-git-prompt'
+brew 'git'
+brew 'node'
+brew 'libsass'
 
 cask 'google-chrome'
 cask 'google-drive'
@@ -66,7 +71,6 @@ cask 'filedrop'
 cask 'filezilla'
 cask 'dropbox'
 cask 'macdown'
-
-
+cask 'geektool'
 
 
